@@ -1,0 +1,4 @@
+pip
+gradio==3.50
+openai
+httpx==0.24.1
